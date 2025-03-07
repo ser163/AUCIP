@@ -6,6 +6,7 @@ AUCIP（AI Universal Capability Interface Protocol）是一个开源协议，旨
 
 无论是桌面应用、移动应用还是物联网设备，只要符合AUCIP协议标准，就可以被AI系统调用和管理。这为AI的自动化控制、跨系统集成以及智能化任务执行提供了可靠的技术框架。
 
+
 ## 协议目标
 
 AUCIP协议有以下主要目标：
